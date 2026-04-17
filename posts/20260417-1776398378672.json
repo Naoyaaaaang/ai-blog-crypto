@@ -1,0 +1,14 @@
+{
+  "slug": "20260417-1776398378672",
+  "title": "ビットコインの量子耐性、サトシのコイン救済は不可能？",
+  "content": "<h2>Cardanoの創業者ホスキンソンがBTC量子耐性アップデートに待った！Satoshiのコインは救えない説</h2>\n\n<p>仮想通貨界隈で最近ホットな話題、ビットコインの量子コンピュータ対策について、あのCharles Hoskinsonがぶっちゃけコメントを出しました。要するに何が起きてるかというと、ビットコインコミュニティが提案してるBIP-361という量子耐性対策は、実は「ソフトフォーク」じゃなくて「ハードフォーク」なんじゃないのか、ということですね。これ正直ヤバくないですか。</p>\n\n<h2>Satoshi時代のBTC 170万枚は救えない現実</h2>\n\n<p>より具体的に言うと、このBIP-361で導入される予定のゼロ知識証明を使った回復メカニズムでは、2013年以前のマイニング時代に生成されたおよそ170万BTCが救済対象にならないってわけです。その中にはもちろん、Satoshi Nakamotoが採掘したとされるコインも含まれています。ホスキンソンの主張は「これらの古いコインは、提案されてる仕組みじゃ量子攻撃から守れないし、復旧もできない」ということ。</p>\n\n<p>ポジション民的には、ここで重要なのは技術的な正当性の議論だけじゃなくて、ビットコインコミュニティの合意形成プロセスの透明性の話でもあるってことです。Cardanoの創業者がこういう指摘をするのは、ブロックチェーン業界全体の技術的誠実さを求める動きとも言えますね。</p>\n\n<h2>ハードフォークか、ソフトフォークか</h2>\n\n<p>BIP-361がソフトフォークと言い張られてる理由は、後方互換性があるように見えるからなんですが、ホスキンソンの指摘だと、実質的なプロトコル変更の規模を考えたらハードフォークと変わらないレベルってことみたい。このへんは技術者によって見方が分かれるところなので、まだこれからのコミュニティディスカッションが重要になってきそう。</p>\n\n<p>ビットコインのセキュリティって本当に大事なテーマなので、こういう地に足ついた議論が進むのは悪くないと思います。ただし、この見解についてはあくまで個人の見解であり、投資判断は自己責任でお願いしますね。HODLerの皆さんが今後どう動くかも気になるところです。</p>\n\n<p><a href=\"https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins\" target=\"_blank\">参照元: CoinDesk - Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins</a></p>",
+  "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0b861ac081b4b97c5f928bbd10d186ce2e4e4dc0-2981x1677.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+  "source": "CoinDesk",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
+  "publishedAt": "2026-04-17T03:59:38.672Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "CoinDesk"
+  ]
+}

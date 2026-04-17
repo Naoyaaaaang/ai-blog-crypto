@@ -1,0 +1,14 @@
+{
+  "slug": "20260417-1776398401664",
+  "title": "Sky、アバランチにUSDSネイティブ展開へ",
+  "content": "<h2>SkyがAvalancheでのUSDS・sUSDS ネイティブデプロイメントを発表</h2>\n\n<p>これ正直ヤバくないですか。Skyが自社のステーブルコイン「USDS」と、そのステーキング版「sUSDS」をAvalancheにネイティブデプロイするんですって。要するに何が起きてるかというと、これまでEthereum中心だったSkyのステーブルコイン生態系が、いよいよマルチチェーン化を本格始動させるってわけです。</p>\n\n<p>具体的には、Skyが開発した「Skylink」というクロスチェーンブリッジプロトコル（LayerZeroのインフラを活用）を経由して、AvalancheにUSDS・sUSDSをデプロイするとのこと。つまりAvalauncheユーザーは、わざわざEthereumを経由せずに、直接Skyのステーブルコイン&ステーキングエコシステムにアクセスできるようになるわけです。こういう流れ、Avalancheコミュニティ的にはめちゃ需要ありますよね。</p>\n\n<h2>HODLer・DeFi農民にとってのインパクト</h2>\n\n<p>ポジション民的には、これはかなり注視する動きだと思います。sUSDS（ステーキングされたUSDS）は、Skyプロトコルのキーとなるリスク資産で、ステーキングすることでSkyのシステムリスクを担保しつつ利回りが得られる仕組み。Avalancheでのネイティブデプロイにより、より多くのDeFi農民やLPがこのメカニズムにアクセスしやすくなり、Skyプロトコル全体の分散化と流動性向上が期待できます。</p>\n\n<p>SkylinkがLayerZeroを活用してるというのも地味に重要。LayerZeroはOmnichain DeFiの標準インフラとして認識されつつあるので、Skyの他チェーンへの展開加速も十分あり得ます。要するに、これはSkyの「Ethereum独占体制からの脱却」を示す第一歩として見ることができるんですよ。</p>\n\n<h2>市場への可能性と今後の展開</h2>\n\n<p>マルチチェーン化によるステーブルコイン供給量の増加は、DeFi全体の流動性向上に直結します。ただし、あくまで個人の見解ですが、各チェーン間でのUSDS需要のバランスや、Skylinkを通じた過度な流動性分散が、初期段階でのAPY低下につながる可能性も考慮しておくべきですね。投資判断は自己責任で、各自のリスク許容度に応じた判断をお願いします。</p>\n\n<p>いずれにせよ、Skyが本気でマルチチェーン覇権を狙ってるのは明白。Avalanche上でsUSDS farming の利回りがどうなるか、あるいはSkylink を通じた他チェーンへの拡大がどこまで進むか—それらが今後のSky生態系の成長を左右する大きなカギになりそうです。草不可避な展開、ここから目が離せませんね。</p>\n\n<p><strong>参照元：</strong><a href=\"https://thedefiant.io/news/defi/sky-announces-first-native-deployment-of-usds-susds-on-avalanche\" target=\"_blank\">The Defiant - Sky Announces First Native Deployment of USDS, sUSDS on Avalanche</a></p>",
+  "imageUrl": "https://cdn.thedefiant.io/gen-block-jpg-78f6aff2-618e-492a-958d-968d54d94e57.jpg",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/defi/sky-announces-first-native-deployment-of-usds-susds-on-avalanche",
+  "publishedAt": "2026-04-17T04:00:01.664Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
