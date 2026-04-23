@@ -1,0 +1,14 @@
+{
+  "slug": "20260423-1776917388137",
+  "title": "SparkLendが10億ドル超の入金、Kelp事件後もAaveは急落",
+  "content": "<h2>SparkLendが10億ドルの資金流入、Kelp攻撃事件後のAave離脱ラッシュが加速</h2>\n\n<p>これ正直ヤバくないですか。Aaveが大変なことになってます。Kelp DAOの攻撃事件がきっかけで、プロトコルから約100億ドルのTVL（Total Value Locked）が吹き飛んだんですよ。要するに何が起きてるかというと、攻撃者たちがKelp経由で担保なしのrsETHをAaveに預けて、そこから1億9000万ドル相当のWETHを借り出したと。その結果、Aaveユーザーは「こりゃ危ねえ」ってなったわけです。</p>\n\n<h2>SparkLendへの資金流入が止まらない</h2>\n\n<p>興味深いことに、ここからがポイントなんですが、Aaveから流出した資金の受け皿になってるのがSparkLend。このプロトコルには攻撃事件以来、なんと10億ドルを超える規模での新規預金が殺到しているんです。ポジション民的には、このタイミングでSparkLendの収益性が上がってる可能性もあるってわけですね。担保率が上昇してるからです。</p>\n\n<p>Aaveのコミュニティとしては相当グラついてる状況だと思うんですけど、同時にこういう危機管理的な資金移動が機能してるのは、DeFiエコシステムとしては悪くない信号かもしれません。ユーザーが即座に代替プロトコルに流動性を移せるってことは、プロトコルリスク分散の観点から見るとそこまで悪い話じゃない。ただ、Aaveの信頼回復はそう簡単じゃないでしょう。</p>\n\n<h2>HODLerにとって何が重要か</h2>\n\n<p>大事なのは、この事件を通じて「単一プロトコルへの集中投資がいかに危ないか」が改めて証明されたってことです。Kelp攻撃みたいな穴が見つかると、瞬時に数百億円規模の資金が動く。これはあくまで個人の見解ですが、複数プロトコルに分散させるリスク管理の重要性は、今後さらに高まるんじゃないかと予想します。投資判断は自己責任で、ですけど。</p>\n\n<p>DeFi市場全体の成熟度もここで試されてる感じがします。ダメージを受けたら即座に代替案に流動性が流れる、この仕組みがちゃんと動いてるってのは実は結構すごいことなんですよ。</p>\n\n<p>参照元：<a href=\"https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit\">The Defiant - SparkLend Sees Over $1B in Deposits Since Kelp Exploit as Aave TVL Plunges</a></p>",
+  "imageUrl": "https://cdn.thedefiant.io/defi-lending-back-png-fa17809b-0966-40e2-a500-af8353e57ce9.png",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/defi/sparklend-tvl-surges-by-usd1b-since-kelp-exploit",
+  "publishedAt": "2026-04-23T04:09:48.137Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
