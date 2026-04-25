@@ -1,0 +1,14 @@
+{
+  "slug": "20260425-1777088899274",
+  "title": "ビットコイン開発者、まさかのハードフォーク宣言",
+  "content": "<h2>Bitcoinコア開発者ポール・ストルク、ハードフォーク「eCash」を発表</h2>\n\n<p>これ正直ヤバくないですか。Bitcoinのコア開発者として知られるポール・ストルク（Paul Sztorc）が、新しいハードフォークプロジェクト「eCash」を発表しました。要するに何が起きてるかというと、Bitcoinから分岐して新たなレイヤー1ブロックチェーンを立ち上げ、さらに7つのレイヤー2スケーリングネットワークを同時に構築するってわけです。</p>\n\n<p>このeCashプロジェクトの構想は、Bitcoinの現在のスケーラビリティの課題に対する一つの答え。ストルク氏の発表によれば、新しいレイヤー1ブロックチェーンが基盤となり、そこに複数のレイヤー2ソリューションが乗っかる形になるっぽいですね。DeFi界隈でよく聞くスケーリング戦略を、Bitcoinのコンセプトをベースに実装しようってことでしょう。</p>\n\n<h2>市場へのインパクトは慎重に見守る必要がある</h2>\n\n<p>ハードフォークって聞くと、Bitcoin SV（BSV）やBitcoin Cash（BCH）みたいな過去の例が思い浮かびますよね。草不可避な展開も少なくないわけですが、今回のeCashが市場にどう受け入れられるかは、正直なところ不透明です。既存のBitcoinコミュニティと開発者からの支持が得られるかどうかで、この先の展開は大きく変わってくるはず。</p>\n\n<p>ポジション民的には、このニュースだけで急いで判断するのは危険。Bitcoinの根本的な設計哲学とeCashのビジョンがどの程度一致してるのか、また採掘インセンティブやセキュリティモデルがどう構築されるのか、まだ詳細が明らかになってないからです。HODLerには新しい機会かもしれませんが、あくまで個人の見解です、投資判断は自己責任でお願いします。</p>\n\n<p>今後、ストルク氏からのより詳細な技術仕様の発表や、コミュニティの反応を注視する価値はありそう。仮想通貨のイノベーションは常に分岐と実験の繰り返しですからね。</p>\n\n<h2>参考資料</h2>\n\n<p><a href=\"https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound\" target=\"_blank\">Bitcoin developer Paul Sztorc announces BTC hard fork called eCash - CoinTelegraph</a></p>",
+  "imageUrl": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGMxMjItZGM3YS03MTU4LWFmNDEtYjlkYzQzYjM3MTJmLmpwZw==.jpg",
+  "source": "CoinTelegraph",
+  "sourceUrl": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "publishedAt": "2026-04-25T03:48:19.274Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "CoinTelegraph"
+  ]
+}
