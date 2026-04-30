@@ -1,0 +1,14 @@
+{
+  "slug": "20260429-1777422856593",
+  "title": "テレグラムの暗号資産ウォレット開発者が「エージェント機能」をリリース",
+  "content": "<h2 style=\"font-size:1.5em;\">Telegramのクリプトウォレット開発チームが<span style=\"color:#e74c3c;font-weight:bold;\">「エージェンティック・ウォレット」</span>をローンチ</h2>\n\n<p>これ正直ヤバくないですか。Telegramのクリプトウォレット開発を手がける<span style=\"color:#e74c3c;font-weight:bold;\">The Open Platform</span>が、<strong>AI agents向けの次世代ウォレット規格「Agentic Wallets」</strong>をオープンソースで公開したんです。<span style=\"color:#e74c3c;font-weight:bold;\">TON（Telegram Open Network）</span>チェーン上での運用が実現します。</p>\n\n<h2 style=\"font-size:1.5em;\">要するに何が起きてるかというと、<strong>AI時代の自動取引革命</strong></h2>\n\n<p>従来のウォレットだと、AIエージェントが何かしらのトランザクションを実行するたびに、<strong>ユーザーが毎回署名（サイン）をしなきゃいけません</strong>。地獄ですよね。でもこの新規格なら、ユーザーが事前に権限を設定しておくだけで、AIが専用のオンチェーン・ウォレットで勝手に判断して動いてくれるわけです。</p>\n\n<div style=\"background:#fff8e1;border-left:4px solid #f39c12;padding:14px 18px;margin:20px 0;border-radius:6px;\"><strong>注目:</strong> 自分専用のAIトレーダーに資金を預けて、<span style=\"color:#e74c3c;font-weight:bold;\">自動運用</span>させるイメージ。<span style=\"color:#e74c3c;font-weight:bold;\">DeFi</span>（分散型金融）の世界では昔からボットトレードはありましたが、ここまで統合されたのは初めてレベルなんじゃないでしょうか。</div>\n\n<h2 style=\"font-size:1.5em;\">ポジション民的には、<strong>DeFi効率化の一大転機</strong>になる可能性</h2>\n\n<p>AIエージェントが複数のプロトコル間をシームレスに移動できるようになれば、<strong>イールドファーミングやアービトラージの自動化</strong>がもっともっと捗るようになります。つまり、HODLer勢がアクティブに運用したいけど時間ない、みたいなユースケースに完全にマッチしるんですよ。</p>\n\n<div style=\"background:#fdf2f8;border-left:4px solid #e91e8c;padding:14px 18px;margin:20px 0;border-radius:6px;\">⚠️ リスク・注意: オンチェーン・ウォレットの完全自動化ってことは、<strong>セキュリティ周りがめちゃくちゃ重要</strong>になってきます。権限設定を甘くしすぎたら、AIが暴走したり悪意あるプロンプト・インジェクション受けたりするリスクもある。開発チームがどこまで堅牢にしてるかは要注目ですね。</div>\n\n<p><span style=\"color:#e74c3c;font-weight:bold;\">Telegram</span>というメッセージアプリの圏内でこういう機能が実装されるってのも、<strong>一般層への採用加速を狙ってる</strong>んだろうなという印象。あくまで個人の見解です、投資判断は自己責任でお願いします。今後の技術仕様発表に注目です。</p>\n\n<p><a href=\"https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram\" target=\"_blank\">参照元: The Defiant - Developers of Telegram's Crypto Wallet Launch Agentic Wallets</a></p>",
+  "imageUrl": "https://cdn.thedefiant.io/agent-city-jpg-f596667a-3ccb-42b2-bb8b-65a9094742d9.jpg",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram",
+  "publishedAt": "2026-04-29T00:34:16.593Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
