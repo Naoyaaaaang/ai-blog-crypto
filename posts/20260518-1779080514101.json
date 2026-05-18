@@ -1,0 +1,14 @@
+{
+  "slug": "20260518-1779080514101",
+  "title": "THORChain、Asgardヴォルト侵害で10.7M$喪失か",
+  "content": "<h2>THORChain、6つのAsgard vaultの1つが侵害される</h2>\n\n<p>またやっちゃいましたね。THORChainの開発チームが発表したところによると、6つのAsgard vaultのうち1つがコンプロマイズされてしまった模様です。要するに何が起きてるかというと、ハッカーが一時的にvault内の資金にアクセスして、約740万ドル相当の不正な出金トランザクションを実行しちゃったってわけです。幸いなことに、ネットワークが素早く署名活動をハルトして被害を食い止めたため、最終的な損失は約1,070万ドルに留まったと報告されています。</p>\n\n<h2>セキュリティインシデントの詳細</h2>\n\n<p>このインシデント、DeFi界隈のガチ勢にとってはやはり気になるポイントですよね。Asgard vaultってのは、THORChainの流動性供給の中核を担う重要なインフラ。要は、ユーザーの資金を管理する金庫みたいなものなんですが、今回の侵害は正直ヤバくないですか。ただし、開発チームの対応速度は褒めるべきところ。署名機能をすぐさまストップさせることで、被害の拡大を防いだわけです。</p>\n\n<p>これからはセキュリティ監査や多重署名メカニズムの強化が急務になるはず。DeFiプロトコルってのは、規制がない分だけセキュリティが命綱ですから、ここをおろそかにするとユーザーの信頼は一気に失われます。ポジション民的には、今後の修復対応と改善策の発表を注視する必要がありそう。</p>\n\n<h2>市場への影響を考える</h2>\n\n<p>こういったセキュリティ事案は、当然ながら市場心理に影響を与えるわけですが、あくまで個人の見見解です。投資判断は自己責任でお願いします。ただ、DeFiプロトコルが成熟していく過程では、こうしたテストも避けられないのが実情。重要なのは、開発チームがいかに透明性を持って対応するか、そして二度と同じ過ちを繰り返さないための施策を講じられるかってところです。THORChainがここからどう立ち直るのか、コミュニティの動きもあわせて注視していくのがスマートな判断だと思いますね。</p>\n\n<p><strong>参照元:</strong> <a href=\"https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault\" target=\"_blank\">The Defiant - THORChain Reports $10.7M Loss From Compromised Asgard Vault</a></p>",
+  "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f14328cd70594b959f37c0e3d6bb291c5a4ee712-1536x1024.png",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/security/thorchain-reports-usd10-7m-loss-from-compromised-asgard-vault",
+  "publishedAt": "2026-05-18T05:01:54.101Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
