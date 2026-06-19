@@ -1,0 +1,14 @@
+{
+  "slug": "20260619-1781831135625",
+  "title": "ビットコイン調達チャネルがピンチ！STRCが過去最安値へ",
+  "content": "<h2>Strategy の STRC、史上最安値を記録。ビットコイン調達チャネルが逼迫中</h2>\n\n<p>いやもう、これ正直ヤバくないですか。Strategy が発行してる優先株的なポジションである STRC が木曜日に約 85 ドルまで落ちて、設計上のターゲットである 100 ドルから 15% 近く下に来ちゃってるんですよ。史上最安値を更新して、当然ながら終値も記録更新。要するに何が起きてるかというと、Strategy がビットコイン購入資金を調達する手段の一つが、機能不全に陥りかけってわけです。</p>\n\n<p>Strategy というプロトコルの構造自体は結構シンプルで、STRC がちゃんと 100 ドル付近で安定してることで初めて、スムーズに BTC を仕込める仕組みになってるんですよね。それが 15% も割り込むってことは、調達メカニズムに明らかな圧力が加わってるってことで、これは単なる一時的な変動じゃなくて、結構構造的な問題を示唆してる可能性がありますよ。</p>\n\n<h2>ビットコイン積立戦略への影響と市場心理</h2>\n\n<p>ポジション民的には、ここからどうなるかが気になるところですよね。STRC が底堅い状態なら Strategy は淡々とビットコインを積み増しできるんですけど、これだけ下がると「そもそもこのプロトコル大丈夫なんか？」っていう疑心暗鬼が市場に蔓延する可能性は十分あります。草不可避な部分もありつつ、真面目に考えると、こういう優先株メカニズムって流動性が枯渇する瞬間に一気に崩れるリスクがあるんで。</p>\n\n<p>あくまで個人の見解ですが、ここは短期的な流動性ショック なのか、それとも Strategy というプロトコル自体への信頼性低下なのか、きちんと見極める必要があると思います。どっちにしろ、投資判断は自己責任で進めてください。今後 STRC がどのレベルで支えられるのか、そして Strategy がこの問題にどう対処するのか、ウォッチしておく価値はありますね。</p>\n\n<p>記事の詳細は下記リンクから確認できます：<a href=\"https://thedefiant.io/news/markets/strategy-s-strc-falls-to-record-low-squeezing-a-bitcoin-funding-channel\" target=\"_blank\">Strategy's STRC Falls to Record Low, Squeezing a Bitcoin Funding Channel - The Defiant</a></p>",
+  "imageUrl": "https://cdn.thedefiant.io/strc-png-5e1a4c55-187f-4c47-b665-7cd9a23487e2.png",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/markets/strategy-s-strc-falls-to-record-low-squeezing-a-bitcoin-funding-channel",
+  "publishedAt": "2026-06-19T01:05:35.625Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
