@@ -1,0 +1,14 @@
+{
+  "slug": "20260622-1782090324177",
+  "title": "イーサリアム最強サンドイッチボット、7.5億円の皮肉な敗北",
+  "content": "<h2>Ethereumの有名サンドイッチボット、皮肉にも$750万相当の大流出に</h2>\n\n<p>正直ヤバくないですか、このニュース。CoinDeskの報道によると、Ethereumエコシステムで最大級のサンドイッチボットとして知られていた「Jaredfromsubway.eth」が、見事にハッキングされて約$7.5ミリオン相当のWETH、USDC、USDTを失ってしまいました。セキュリティ企業のBlockaidが明かしたところでは、攻撃者は巧妙な手口でこのボットに偽のトレーディングルートを承認させ、そのトークン承認を悪用して資金を吸い上げたんですよ。</p>\n\n<h2>何が起きたのか、要するに</h2>\n\n<p>要するに何が起きてるかというと、MEV対策をしながら利益を取ってた側が、逆に同じ手法でやられちゃったってわけです。承認トランザクション（トークンの使用許可）のセキュリティホールを突かれたのが今回のケース。攻撃者は被害者に対して、一見まっとうなスマートコントラクト・インタラクションに見せかけて、実は悪意のあるルートを承認させていたんですね。一度承認されると、無制限にトークンを引き出される仕組み——これ、DeFiで時々問題になる古典的なvulnerabilityです。</p>\n\n<p>実は、Jaredfromsubway.ethはMEV（Maximal Extractable Value）戦略で知られるボットで、いわゆる「サンドイッチ攻撃」を仕掛けるって話が業界内でも有名だったんですよ。つまり、他のトレーダーのトランザクションを見つけて、それより前後に自分のトランザクションを差し込んで利益を取るやつです。その利益追求者が、同じスキームでやられちゃったってのは——草不可避ですね。カルマの問題か、それとも単にセキュリティ対策が甘かったのか。</p>\n\n<h2>HODLerと市場への影響を考える</h2>\n\n<p>ポジション民的には「大口ボットが削られるのはまぁいいか」くらいの感覚かもしれません。というのも、MEVボットによる搾取がこれで若干軽減される可能性があるからです。ただし、このレベルのセキュリティ侵害が起きるってことは、Ethereumのスマートコントラクト環境全体に対する不安材料になりうるってのが懸念点。あくまで個人の見解ですが、DeFiプロトコルのセキュリティ監査への注目度はさらに上がるでしょう。</p>\n\n<p>今後は、token approvalのリスク管理がもっと厳しくなるかもしれませんね。というのも、このインシデントは「無制限承認の危険性」をまた一つ証明したから。投資判断は自己責任でお願いしますが、セキュリティ面での改善期待はあります。</p>\n\n<p>参照元: <a href=\"https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit\" target=\"_blank\">CoinDesk - Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit</a></p>",
+  "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c97bd815dbaa4d0c149b3c9a15cc76b83b6dab51-720x406.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+  "source": "CoinDesk",
+  "sourceUrl": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+  "publishedAt": "2026-06-22T01:05:24.177Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "CoinDesk"
+  ]
+}
