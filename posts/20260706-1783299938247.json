@@ -1,0 +1,14 @@
+{
+  "slug": "20260706-1783299938247",
+  "title": "Rocket Poolで全員がETHで稼ぐ時代へ",
+  "content": "<h2>Rocket Pool の Saturn 1 アップグレードが変える液体ステーキングの未来</h2>\n\n<p>Ethereum のステーキング市場、ついに転機を迎えた感じありますね。Rocket Pool が先日発表した Saturn 1 アップグレードが、マジで RPL と rETH ホルダーの収益構造を根本的に変える可能性があるんです。要するに何が起きてるかというと、これまで複雑だったステーキングの収益化が、一般ユーザーでも参入できるレベルまで民主化されようとしているってこと。</p>\n\n<p>プロトコル GM の Darren Langley が Camila Russo とのインタビューで明かしたところによると、このアップグレードでは主に 3 つの革新が実装されるらしい。第一に、スケーリング容量の大幅な拡大。第二に、rETH（Rocket Pool のリキッドステーキングトークン）のペッグ安定化。そして第三に、RPL ステーキングを実質的な ETH イールド戦略に昇華させたということです。ポジション民的には「これ正直ヤバくないですか」ってレベルの改善ですよ。</p>\n\n<h2>rETH のペッグ安定化と RPL ホルダーへの朗報</h2>\n\n<p>リキッドステーキング市場って、ペッグの維持が超重要なんですよね。Lido 圧倒的優位の中で Rocket Pool が地位を確立するには、ユーザーが「rETH は本当に安全なのか」という不安を払拭する必要があった。Saturn 1 はまさにそこにメスを入れたプロトコルアップグレード。ペッグ機構の強化により、rETH が 1 ETH に対してしっかり価値を保つようになるわけです。</p>\n\n<p>さらに重要なのが RPL ステーキングの再設計。これまで「RPL を持ってるから何かされてる」という受動的な立場だったホルダーが、実質的に ETH の利回りを得られる仕組みに変わるってこと。つまり、RPL をロックアップすることで、ノードオペレーターの収益から直接恩恵を受ける構造が完成したんです。HODLer には朗報ですね。</p>\n\n<h2>DeFi 市場への波及効果を考察する</h2>\n\n<p>Rocket Pool のスケーリング拡大は、単なる一プロトコルの成長じゃなくて、Ethereum ステーキング全体のパイを大きくする可能性を秘めてます。流動性ステーキング市場は今後も伸びるだろうし、その中で Lido 以外の選択肢が現実的になるのは生態系的にもプラスに働きそう。あくまで個人の見解ですが、Ethereum の PoS セキュリティと DeFi の効率性を両立させるソリューションとして、Rocket Pool の動向は注視する価値があると思います。</p>\n\n<p>投資判断は自己責任でお願いしますが、長期的には Ethereum のステーキング民主化という大きなトレンドの一部として捉えるのが吉。Saturn 1 の実装状況や市場反応には引き続き注目しましょう。</p>\n\n<p><strong>参照元：</strong><a href=\"https://thedefiant.io/podcasts-and-videos/videos/passive-income-on-ethereum-for-all-how-rocket-pool-scales-liquid-staking\" target=\"_blank\">The Defiant - Passive Income on Ethereum for All: How Rocket Pool Scales Liquid Staking</a></p>",
+  "imageUrl": "https://cdn.thedefiant.io/thumbnail-png-966e35d1-5c7a-407d-b6f5-702b99be310d.png",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/podcasts-and-videos/videos/passive-income-on-ethereum-for-all-how-rocket-pool-scales-liquid-staking",
+  "publishedAt": "2026-07-06T01:05:38.247Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
