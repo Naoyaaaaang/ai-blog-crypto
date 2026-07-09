@@ -1,0 +1,14 @@
+{
+  "slug": "20260709-1783559115107",
+  "title": "eToro、オンチェーンデリバティブ取引所へ戦略的出資＆Zengo連携へ",
+  "content": "<h2>eToroがExtendedに戦略的投資、DeFi永続先物取引所との提携が加速</h2>\n\n<p>これ正直ヤバくないですか。暗号資産取引プラットフォームのeToroが、オンチェーン永続先物取引所のExtendedに戦略的投資家として参入することが発表されました。同時に、今年買収したセルフカストディウォレットのZengoとの提携も開始するとのこと。ただし投資額は両社とも非開示という、なんとも業界らしい発表になってますね。</p>\n\n<p>要するに何が起きてるかというと、eToroという大手CEFi（中央集権的取引所）がDeFiの永続先物取引所に乗り込んできた、という図式です。Zengoの買収に続いて、今度はExtendedへの出資ということで、eToroはユーザーに対して「セルフカストディで自分の資産を管理しながら、DeFiの先物取引にアクセスできる環境」を整備しようとしてるんじゃないでしょうか。これ戦略としてはけっこう筋が通ってます。</p>\n\n<h2>なぜこのタイミングで動くのか</h2>\n\n<p>POSやETFあたりで個人投資家のWeb3リテラシーが上がってる中で、CEFi企業もDeFiへのシフトを余儀なくされてる感じですね。Zengoのセルフカストディウォレット機能とExtendedの永続先物取引を組み合わせたら、ユーザーは自分の秘密鍵を保持しつつ、高度なデリバティブ取引にアクセスできるわけです。HODLerには朗報、というかトレーダーにとっては選択肢が増える局面ですね。</p>\n\n<p>ポジション民的には、この提携はDeFi永続先物市場の流動性向上につながる可能性が高い。大手CEFiの資本と顧客基盤がExtendedに流入すれば、オンチェーン取引所としての競争力が一気に上がります。同時にeToroにとっても、既存ユーザーをDeFiへ段階的に移行させるための足がかりになるはず。要は両社WinWinの構図が成立してるわけです。</p>\n\n<h2>懸念点と今後の展開</h2>\n\n<p>ただ、セルフカストディとCEFiのハイブリッドモデルが本当にうまくいくかどうかは未知数。ユーザーサイドとしてはセキュリティと利便性のバランスをどこに設定するか、という課題が残ります。また、規制環境の変化次第ではこうした提携の進め方も影響を受ける可能性ですね。</p>\n\n<p>いずれにせよ、このニュースはDeFiのメインストリーム化がまた一段進んだことを示してます。CEFiとDeFiの垣根がどんどん曖昧になってきてるのは、この業界にとって自然な進化なんだと思います。投資判断は各自でしっかり情報収集した上で、あくまで個人の見解です、ご判断はご自身の責任でお願いします。</p>\n\n<p><a href=\"https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo\">参照元: The Defiant - eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up</a></p>",
+  "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7db2f292ede907c610e48df98d0a40982fc25e31-2048x1152.png",
+  "source": "DeFi",
+  "sourceUrl": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+  "publishedAt": "2026-07-09T01:05:15.107Z",
+  "tags": [
+    "仮想通貨",
+    "暗号資産",
+    "DeFi"
+  ]
+}
